@@ -6,3 +6,4 @@ a=1
 b=2
 c=a**b
 print(c)
+print("I am the king of the world!")
