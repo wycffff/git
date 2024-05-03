@@ -1,0 +1,9 @@
+# Ignores all files with the following file extesions:
+*.png
+*.txt
+*.doc
+*.docx
+*.jpg
+
+# Ignroing the whole folder and all its contents
+/cxreen_captures
